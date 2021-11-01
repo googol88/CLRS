@@ -1,5 +1,5 @@
 # Replit config file
-.replit
+*.replit
 
 # Compiled class file
 *.class
